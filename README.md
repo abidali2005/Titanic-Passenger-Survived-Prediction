@@ -58,14 +58,6 @@ This is my solution to the Titanic Kaggle competition: [Titanic - Machine Learni
 - **Train Accuracy:** ~80%
 - **Kaggle Public Submission Score:** `0.67460`
 
----
-
-## 📈 Next Improvements
-
-- Hyperparameter tuning using `GridSearchCV`
-- Advanced feature engineering (Title grouping, binning)
-- Trying ensemble models (Voting, Stacking)
-- Improve score with additional insights and feature selection
 
 ---
 
@@ -78,7 +70,7 @@ pandas
 numpy
 matplotlib
 seaborn
-joblib
+ml models
 🙋‍♂️ Author
 Abid Ali Atif
 Aspiring Data Scientist | 4th Semester CS Student
